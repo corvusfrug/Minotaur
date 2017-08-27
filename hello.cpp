@@ -1,4 +1,4 @@
-#include "hello.h"
+п»ї#include "hello.h"
 
 char** field;
 int n,m;
@@ -7,16 +7,16 @@ bool loose_game_flag;
 int used_flag;
 int player_x,player_y;
 int minotavr_x, minotavr_y;
-static int escape_x,escape_y;  //Координаты выходя для BFS на очереди с приоритетом
+static int escape_x,escape_y;  //РљРѕРѕСЂРґРёРЅР°С‚С‹ РІС‹С…РѕРґСЏ РґР»СЏ BFS РЅР° РѕС‡РµСЂРµРґРё СЃ РїСЂРёРѕСЂРёС‚РµС‚РѕРј
 int score;
 int** used_p;
 int** used_m;
 koord** q_prior;
 koord** q_prior_m;
 int uroven;
-static int q_prior_size;        // Размер Очереди с приоритетом
-static int move_count;          // Задержка при переправе игрока через воду
-static int move_count_m;        // Задержка при проламывании минотавром леса
+static int q_prior_size;        // Р Р°Р·РјРµСЂ РћС‡РµСЂРµРґРё СЃ РїСЂРёРѕСЂРёС‚РµС‚РѕРј
+static int move_count;          // Р—Р°РґРµСЂР¶РєР° РїСЂРё РїРµСЂРµРїСЂР°РІРµ РёРіСЂРѕРєР° С‡РµСЂРµР· РІРѕРґСѓ
+static int move_count_m;        // Р—Р°РґРµСЂР¶РєР° РїСЂРё РїСЂРѕР»Р°РјС‹РІР°РЅРёРё РјРёРЅРѕС‚Р°РІСЂРѕРј Р»РµСЃР°
 
 void input_field()
 {
@@ -76,7 +76,7 @@ void input_field()
 
 void output_field()
 {
-    HANDLE hStdOut = GetStdHandle(STD_OUTPUT_HANDLE); // Для цвету
+    HANDLE hStdOut = GetStdHandle(STD_OUTPUT_HANDLE); // Р”Р»СЏ С†РІРµС‚Сѓ
     for(int i=0;i<n;i++)
     {
         for(int j=0;j<m;j++)
