@@ -24,7 +24,4 @@
 ![GUI_Modeling_ex](https://3.downloader.disk.yandex.ru/disk/dc0a37fba234f967015b9d1ab4e08e47c9fd1ea92f69966a7775c8880c523e2f/59a30328/e4yAmOpUdHfB_SQ08sGywTbYnVMf4l2d1Tf5uW56RDOBH4kUke6byCqy8NvK0_ocb7WalqRsoKSqO0gfjXXACQ%3D%3D?uid=227757636&filename=min_game.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=34752&hid=c755c174692666a7831d80771ff6cc2e&media_type=image&tknv=v2&etag=5262a263261295dce7e2728636f01576)
 *********
 
-
-*********
-
 Папка bin содержит собранный проект, в файле input.txt содержится карта лабиринта, в файле finisher.txt запоминаются лучшие результаты.
