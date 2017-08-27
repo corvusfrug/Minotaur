@@ -1,0 +1,61 @@
+15 15
+XXXXXXXXXXXXXXX
+X             X
+X     WWW     X
+X   WWWWW     X
+X    WW       X
+X    W    T   X
+XTT TTT TTTT  X
+X  Y W   TTTT X
+X TTTWTT  T   X
+X   WTT       X
+X    WWWW     X
+X   TTTTW W   X
+X    TT   W   X
+X  M      W Q X
+XXXXXXXXXXXXXXX
+
+
+
+15 15
+XXXXXXXXXXXXXXX
+X             X
+X     WWW     X
+X   WWWWW     X
+X    WW       X
+X    W    T   X
+XTT TTT TTTT  X
+X  Y W   TTTT X
+X TTTWTT  T   X
+X   WTT       X
+X    WWWW     X
+X   TTTTW W   X
+X    TT   W   X
+X  M      W Q X
+XXXXXXXXXXXXXXX
+
+6 9
+XXXXXXXXX
+X   Y   X
+X wwwww X
+X T   T X
+X   T Q X
+XXXXXXXXX
+
+6 7
+XXXXXXX
+XYWW  X
+X WW QX
+X WW  X
+XTTT MX
+XXXXXXX
+
+6 7
+XXXXXXX
+XM    X
+X T  QX
+XYW   X
+X T   X
+XXXXXXX
+
+
