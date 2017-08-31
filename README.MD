@@ -2,7 +2,7 @@
 *************
 Консольное приложение. Пошаговая игра.
 *********
-![Modeling_ex](https://3.downloader.disk.yandex.ru/disk/6f2f585428292628b0ba6fa01e7cef6544f6dbc9b8925e26c9794b94dc81562c/59a302f1/e4yAmOpUdHfB_SQ08sGywY1f500DDupBLri9aRRz1C8wUyXH2JlGFFAde88bVK1nzkwTxuCRydUQl0gbvLuJSw%3D%3D?uid=227757636&filename=min_menu.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=47309&hid=9251aa8dd2e977b558b3bc96a75ab84c&media_type=image&tknv=v2&etag=a030497dd912b2898f0c6b14f2ff9608)
+![Modeling_ex](https://1.downloader.disk.yandex.ru/disk/502dd48565f53e9db94b3c6a072a79d4ae557a1c70c7d3e4dbe29c3b47914613/59a8a5ec/e4yAmOpUdHfB_SQ08sGywY1f500DDupBLri9aRRz1C8wUyXH2JlGFFAde88bVK1nzkwTxuCRydUQl0gbvLuJSw%3D%3D?uid=227757636&filename=min_menu.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=47309&hid=9251aa8dd2e977b558b3bc96a75ab84c&media_type=image&tknv=v2&etag=a030497dd912b2898f0c6b14f2ff9608)
 
 ### ***Представляет несколько режимов:***
 
@@ -21,7 +21,7 @@
 	+ Побег. За игроком гонится минотавр, движущийся наперерез. Игрок может переплывать через воду а минотавр валить лес. 
 **********
 
-![GUI_Modeling_ex](https://3.downloader.disk.yandex.ru/disk/dc0a37fba234f967015b9d1ab4e08e47c9fd1ea92f69966a7775c8880c523e2f/59a30328/e4yAmOpUdHfB_SQ08sGywTbYnVMf4l2d1Tf5uW56RDOBH4kUke6byCqy8NvK0_ocb7WalqRsoKSqO0gfjXXACQ%3D%3D?uid=227757636&filename=min_game.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=34752&hid=c755c174692666a7831d80771ff6cc2e&media_type=image&tknv=v2&etag=5262a263261295dce7e2728636f01576)
+![GUI_Modeling_ex](https://2.downloader.disk.yandex.ru/disk/23496db7474658687a60279c5107df167a3f2a9f9ab8fda95781dda9e28c021e/59a8a60d/e4yAmOpUdHfB_SQ08sGywTbYnVMf4l2d1Tf5uW56RDOBH4kUke6byCqy8NvK0_ocb7WalqRsoKSqO0gfjXXACQ%3D%3D?uid=227757636&filename=min_game.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=34752&hid=c755c174692666a7831d80771ff6cc2e&media_type=image&tknv=v2&etag=5262a263261295dce7e2728636f01576)
 *********
 
 Папка bin содержит собранный проект, в файле input.txt содержится карта лабиринта, в файле finisher.txt запоминаются лучшие результаты.
