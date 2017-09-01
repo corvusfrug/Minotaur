@@ -21,7 +21,7 @@
 	+ Побег. За игроком гонится минотавр, движущийся наперерез. Игрок может переплывать через воду а минотавр валить лес. 
 **********
 
-![GUI_Modeling_ex](https://2.downloader.disk.yandex.ru/disk/23496db7474658687a60279c5107df167a3f2a9f9ab8fda95781dda9e28c021e/59a8a60d/e4yAmOpUdHfB_SQ08sGywTbYnVMf4l2d1Tf5uW56RDOBH4kUke6byCqy8NvK0_ocb7WalqRsoKSqO0gfjXXACQ%3D%3D?uid=227757636&filename=min_game.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=34752&hid=c755c174692666a7831d80771ff6cc2e&media_type=image&tknv=v2&etag=5262a263261295dce7e2728636f01576)
+![GUI_Modeling_ex](https://4.downloader.disk.yandex.ru/disk/a858afce77de08113d7c15262ef4a8393058fb967816e34eda0e6a0e47e068ee/59a9b5b4/e4yAmOpUdHfB_SQ08sGywTbYnVMf4l2d1Tf5uW56RDOBH4kUke6byCqy8NvK0_ocb7WalqRsoKSqO0gfjXXACQ%3D%3D?uid=227757636&filename=min_game.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=34752&hid=c755c174692666a7831d80771ff6cc2e&media_type=image&tknv=v2&etag=5262a263261295dce7e2728636f01576)
 *********
 
 Папка bin содержит собранный проект, в файле input.txt содержится карта лабиринта, в файле finisher.txt запоминаются лучшие результаты.
